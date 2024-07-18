@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|c:\\users\\user\\documents\\github\\aspdemo\\serviceinterfacecontroller\\serviceinterfacecontroller\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|solutionrelative:serviceinterfacecontroller\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|c:\\users\\user\\documents\\github\\aspdemo\\serviceinterfacecontroller\\serviceinterfacecontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|solutionrelative:serviceinterfacecontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|c:\\users\\user\\documents\\github\\aspdemo\\serviceinterfacecontroller\\serviceinterfacecontroller\\interfaces\\idriversrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|solutionrelative:serviceinterfacecontroller\\interfaces\\idriversrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|c:\\users\\user\\documents\\github\\aspdemo\\serviceinterfacecontroller\\serviceinterfacecontroller\\repositories\\driversrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|solutionrelative:serviceinterfacecontroller\\repositories\\driversrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|c:\\users\\user\\documents\\github\\aspdemo\\serviceinterfacecontroller\\serviceinterfacecontroller\\interfaces\\icarsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|solutionrelative:serviceinterfacecontroller\\interfaces\\icarsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|c:\\users\\user\\documents\\github\\aspdemo\\serviceinterfacecontroller\\serviceinterfacecontroller\\repositories\\carsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|solutionrelative:serviceinterfacecontroller\\repositories\\carsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|c:\\users\\user\\documents\\github\\aspdemo\\serviceinterfacecontroller\\serviceinterfacecontroller\\interfaces\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|solutionrelative:serviceinterfacecontroller\\interfaces\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|c:\\users\\user\\documents\\github\\aspdemo\\serviceinterfacecontroller\\serviceinterfacecontroller\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|solutionrelative:serviceinterfacecontroller\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|c:\\users\\user\\documents\\github\\aspdemo\\serviceinterfacecontroller\\serviceinterfacecontroller\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005AD1BF-68E6-412E-921A-6C800AEEA5E8}|ServiceInterfaceController\\ServiceInterfaceController.csproj|solutionrelative:serviceinterfacecontroller\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "ServiceInterfaceController\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Controllers\\CarController.cs",
+              "RelativeToolTip": "ServiceInterfaceController\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:50:30.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DriversController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Controllers\\DriversController.cs",
+              "RelativeDocumentMoniker": "ServiceInterfaceController\\Controllers\\DriversController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Controllers\\DriversController.cs",
+              "RelativeToolTip": "ServiceInterfaceController\\Controllers\\DriversController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:50:25.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "ServiceInterfaceController\\Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Services\\DataService.cs",
+              "RelativeToolTip": "ServiceInterfaceController\\Services\\DataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:02:38.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Interfaces\\IDataService.cs",
+              "RelativeDocumentMoniker": "ServiceInterfaceController\\Interfaces\\IDataService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Interfaces\\IDataService.cs",
+              "RelativeToolTip": "ServiceInterfaceController\\Interfaces\\IDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:53:37.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Repositories\\CarsRepository.cs",
+              "RelativeDocumentMoniker": "ServiceInterfaceController\\Repositories\\CarsRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Repositories\\CarsRepository.cs",
+              "RelativeToolTip": "ServiceInterfaceController\\Repositories\\CarsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:02:01.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICarsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Interfaces\\ICarsRepository.cs",
+              "RelativeDocumentMoniker": "ServiceInterfaceController\\Interfaces\\ICarsRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Interfaces\\ICarsRepository.cs",
+              "RelativeToolTip": "ServiceInterfaceController\\Interfaces\\ICarsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:53:04.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DriversRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Repositories\\DriversRepository.cs",
+              "RelativeDocumentMoniker": "ServiceInterfaceController\\Repositories\\DriversRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Repositories\\DriversRepository.cs",
+              "RelativeToolTip": "ServiceInterfaceController\\Repositories\\DriversRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:02:18.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDriversRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Interfaces\\IDriversRepository.cs",
+              "RelativeDocumentMoniker": "ServiceInterfaceController\\Interfaces\\IDriversRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Interfaces\\IDriversRepository.cs",
+              "RelativeToolTip": "ServiceInterfaceController\\Interfaces\\IDriversRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:52:40.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceInterfaceController\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\aspDemo\\ServiceInterfaceController\\ServiceInterfaceController\\Program.cs",
+              "RelativeToolTip": "ServiceInterfaceController\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:51:32.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
