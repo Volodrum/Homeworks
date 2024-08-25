@@ -1174,11 +1174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\ASPDocumentation\\MinimalApi\\MinimalApi.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Homeworks\\ASPDocumentation\\MinimalApi\\MinimalApi.csproj",
       "projectName": "MinimalApi",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\ASPDocumentation\\MinimalApi\\MinimalApi.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Homeworks\\ASPDocumentation\\MinimalApi\\MinimalApi.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\ASPDocumentation\\MinimalApi\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Homeworks\\ASPDocumentation\\MinimalApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
